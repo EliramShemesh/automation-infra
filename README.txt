@@ -1,1 +1,1 @@
-A branch for client automation.
+Automation Infrastructure using Appium, Pytest and Allure
